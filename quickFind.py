@@ -18,7 +18,7 @@ class QuickFind(object):
                 l1[i] = l1[p]
         return l1
 
- 
+
 
 quickFind = QuickFind()
 l1 = quickFind.create(10)
